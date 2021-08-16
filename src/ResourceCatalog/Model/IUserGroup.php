@@ -1,0 +1,45 @@
+<?php
+namespace ResourceCatalog\Model;
+
+interface IUserGroup extends IUserGroupIdentify
+{
+    const ID = array(
+        'NULL' => 0,
+        'FGW' => 1,
+        'SWJ' => 2,
+        'WZZB' => 3,
+        'WXCB' => 4,
+        'WZFW' => 5,
+        'XWWXB' => 6,
+        'XWBB' => 7,
+        'XRMFY' => 8,
+        'JCY' => 9,
+        'JYJ' => 10,
+        'LYJ' => 11,
+        'GXJ' => 12,
+        'GAJ' => 13,
+        'MZJ' => 14,
+        'SFJ' => 15,
+        'CZJ' => 16,
+        'RSJ' => 17,
+        'GHHZRZRJ' => 18,
+        'HJSTJ' => 19,
+        'ZJJ' => 20,
+        'XCZXJ' => 21,
+        'JTYSJ' => 22,
+        'SLJ' => 23,
+        'RHLXZH' => 24,
+        'NYNCJ' => 25,
+        'LXRMZFBGS' => 26,
+        'WLJ' => 27,
+        'WJW' => 28,
+        'TYJRSWJ' => 29,
+        'GQTLXXW' => 30,
+        'SCJDGLJ' => 31,
+        'NYJ' => 32,
+        'TJJ' => 33,
+        'YLBZJ' => 34,
+        'XZSPJ' => 35,
+        'YJJ' => 36,
+    );
+}

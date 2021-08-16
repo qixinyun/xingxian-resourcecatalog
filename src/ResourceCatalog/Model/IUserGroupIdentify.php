@@ -1,0 +1,45 @@
+<?php
+namespace ResourceCatalog\Model;
+
+interface IUserGroupIdentify
+{
+    const IDENTIFY = array(
+        IUserGroup::ID['NULL'] => 'NULL',
+        IUserGroup::ID['FGW'] => 'FGW',
+        IUserGroup::ID['WZZB'] => 'WZZB',
+        IUserGroup::ID['WXCB'] => 'WXCB',
+        IUserGroup::ID['WZFW'] => 'WZFW',
+        IUserGroup::ID['XWWXB'] => 'XWWXB',
+        IUserGroup::ID['XWBB'] => 'XWBB',
+        IUserGroup::ID['XRMFY'] => 'XRMFY',
+        IUserGroup::ID['JCY'] => 'JCY',
+        IUserGroup::ID['LYJ'] => 'LYJ',
+        IUserGroup::ID['JYJ'] => 'JYJ',
+        IUserGroup::ID['GXJ'] => 'GXJ',
+        IUserGroup::ID['GAJ'] => 'GAJ',
+        IUserGroup::ID['MZJ'] => 'MZJ',
+        IUserGroup::ID['SFJ'] => 'SFJ',
+        IUserGroup::ID['CZJ'] => 'CZJ',
+        IUserGroup::ID['RSJ'] => 'RSJ',
+        IUserGroup::ID['GHHZRZRJ'] => 'GHHZRZRJ',
+        IUserGroup::ID['HJSTJ'] => 'HJSTJ',
+        IUserGroup::ID['ZJJ'] => 'ZJJ',
+        IUserGroup::ID['XCZXJ'] => 'XCZXJ',
+        IUserGroup::ID['JTYSJ'] => 'JTYSJ',
+        IUserGroup::ID['SLJ'] => 'SLJ',
+        IUserGroup::ID['RHLXZH'] => 'RHLXZH',
+        IUserGroup::ID['NYNCJ'] => 'NYNCJ',
+        IUserGroup::ID['LXRMZFBGS'] => 'LXRMZFBGS',
+        IUserGroup::ID['WLJ'] => 'WLJ',
+        IUserGroup::ID['WJW'] => 'WJW',
+        IUserGroup::ID['TYJRSWJ'] => 'TYJRSWJ',
+        IUserGroup::ID['GQTLXXW'] => 'GQTLXXW',
+        IUserGroup::ID['SCJDGLJ'] => 'SCJDGLJ',
+        IUserGroup::ID['TJJ'] => 'TJJ',
+        IUserGroup::ID['YLBZJ'] => 'YLBZJ',
+        IUserGroup::ID['XZSPJ'] => 'XZSPJ',
+        IUserGroup::ID['NYJ'] => 'NYJ',
+        IUserGroup::ID['SWJ'] => 'SWJ',
+        IUserGroup::ID['YJJ'] => 'YJJ',
+    );
+}
