@@ -78,7 +78,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['QYZXXX'] => '企业注销信息',
         IResourceCatalog::TYPE['QYDXXX'] => '企业吊销信息',
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
-        IResourceCatalog::TYPE['LLSTYXHDJXX'] => '吕梁市体育协会登记信息',
+        IResourceCatalog::TYPE['LLSTYXHDJXX'] => '岚县体育协会登记信息',
         IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息',
         IResourceCatalog::TYPE['TJDCDXML'] => '统计调查对象目录',
         IResourceCatalog::TYPE['YHYJRJGCFXX'] => '银行业金融机构处罚信息',
