@@ -46,5 +46,7 @@ interface IUserGroupIdentify
         IUserGroup::ID['JLSX'] => 'JLSX',
         IUserGroup::ID['ZJPX'] => 'ZJPX',
         IUserGroup::ID['GDSX'] => 'GDSX',
+        IUserGroup::ID['SWJ'] => 'SWJ',
+        IUserGroup::ID['RMFY'] => 'RMFY',
     );
 }

@@ -46,5 +46,7 @@ interface IUserGroup extends IUserGroupIdentify
         'JLSX' => 39,
         'ZJPX' => 40,
         'GDSX' => 41,
+        'SWJ' => 42,
+        'RMFY' => 43,
     );
 }
