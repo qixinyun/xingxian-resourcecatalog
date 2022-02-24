@@ -6,7 +6,6 @@ interface IResourceCatalogSubjectCategory
     const RESOURCE_CATALOG_NATURAL_PERSON = [
         'XBXZCF' => 1,
         'XBXZXK' => 2,
-        'JGJCDXZJL' => 3,
         'SXBZXRMD' => 12,
         'JYJGXINXI' => 15,
         'SHZZNJXX' => 22,
