@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogTypeIdentify
@@ -96,6 +97,11 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['ZDRQXYDA'] => 'ZDRQXYDA',
         IResourceCatalog::TYPE['XYSFSQ'] => 'XYSFSQ',
         IResourceCatalog::TYPE['CCJCJG'] => 'CCJCJG',
+        IResourceCatalog::TYPE['XZCJ'] => 'XZCJ',
+        IResourceCatalog::TYPE['XZJDJC'] => 'XZJDJC',
+        IResourceCatalog::TYPE['XZJL'] => 'XZJL',
+        IResourceCatalog::TYPE['XZQR'] => 'XZQR',
+        IResourceCatalog::TYPE['XZQZ'] => 'XZQZ',
         //@position
         IResourceCatalog::TYPE['TEST'] => 'TEST',
     );

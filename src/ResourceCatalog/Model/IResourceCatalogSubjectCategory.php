@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogSubjectCategory
@@ -31,7 +32,12 @@ interface IResourceCatalogSubjectCategory
         'WSZYJSZGKSWJXX' => 60,
         'SPYPTSJBJLGR' => 68,
         'DTJXJGRXX' => 76,
-        'ZDRQXYDA'=>89,
+        'ZDRQXYDA' => 89,
+        'XZCJ' => 92,
+        'XZJDJC' => 93,
+        'XZJL' => 94,
+        'XZQR' => 95,
+        'XZQZ' => 96,
     ];
 
     const RESOURCE_CATALOG_ENTERPRISE = [
@@ -95,10 +101,15 @@ interface IResourceCatalogSubjectCategory
         'SPFYSXK' => 83,
         'FDCKFQYZZXX' => 84,
         'JGRYXXSFGJ' => 85,
-        'SYDWJBXX'=>86,
-        'HTLY'=>87,
+        'SYDWJBXX' => 86,
+        'HTLY' => 87,
         'QYHYSJ' => 88,
-        'XYSFSQ'=>90,
-        'CCJCJG'=>91,
+        'XYSFSQ' => 90,
+        'CCJCJG' => 91,
+        'XZCJ' => 92,
+        'XZJDJC' => 93,
+        'XZJL' => 94,
+        'XZQR' => 95,
+        'XZQZ' => 96,
     ];
 }

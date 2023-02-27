@@ -1,4 +1,5 @@
 <?php
+
 namespace ResourceCatalog\Model;
 
 interface IResourceCatalogIsConfirm
@@ -97,6 +98,11 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['ZDRQXYDA'] =>  ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         IResourceCatalog::TYPE['XYSFSQ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['CCJCJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['XZCJ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['XZJDJC'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['XZJL'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['XZQR'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
+        IResourceCatalog::TYPE['XZQZ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['IS_CONFIRM'],
         //@position
     );
 }
